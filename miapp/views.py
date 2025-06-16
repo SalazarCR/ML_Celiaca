@@ -1,6 +1,3 @@
-from django.shortcuts import render
-
-# Create your views here.
 import matplotlib.pyplot as plt
 import base64
 
